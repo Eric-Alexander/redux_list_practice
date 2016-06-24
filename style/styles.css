@@ -1,0 +1,7 @@
+.list-group-item{
+  cursor: pointer;
+  font-size: 12px;
+}
+.list-group-item:hover{
+  background-color:  #eee;
+}
